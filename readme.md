@@ -7,6 +7,7 @@ Git es un sistema de control de versiones ampliamente usado en el mundo del desa
 - git add   . // Agrega los archivos al index o Staging area.
 - git commit -m "xxxxxx" // Nos permite agregar todos los archivos al head, listos para subir a github. Reemplaza las xxxx por un comentario sobre ese commit. Por ejemplo: "se corrigió el registro de usuarios".
 - git remote add origin xxx //  Remplaza las xxx por la URL de tu repositorio en GitHub
+- git push origin master // Sube todos los archivos de la rama master
 
 ## Crear un repositorio en GitHub
 - Una vez registrado en GitHub das clic en Nuevo repositorio
