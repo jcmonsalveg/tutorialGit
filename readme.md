@@ -1,6 +1,9 @@
 # Tutorial inicial de GIT & GitHub
 
-Git es un sistema de control de versiones ampliamente usado en el mundo del desarrollo de software :computer: fue ideado por ***Linus Torvals*** :man: (Si... el mismo creador de Linux). Nos permite mantener un historial completo de versiones de nuestro software, identificando los grandes cambios realizados a un proyecto, permitiéndonos navegar por diferentes ramas a la hora de desarrollar nuestros proyectos. Pudiendo volver en cualquier momento a cualquier versión anterior o creando nuevas ramas de un proyecto para probar nuevas funcionalidades, mejoras, etc. 
+Git es un sistema de control de versiones ampliamente usado en el mundo del desarrollo de software :computer: fue ideado por ***Linus Torvals*** :man: (Si... el mismo creador de Linux). Nos permite mantener un historial completo de versiones de nuestro software, identificando los grandes cambios realizados a un proyecto, permitiéndonos navegar por diferentes ramas a la hora de desarrollar nuestros proyectos. Pudiendo volver en cualquier momento a cualquier versión anterior o creando nuevas ramas de un proyecto para probar nuevas funcionalidades, mejoras, etc.  
+
+## Instalar GIT en el pc
+Para instalar GIT es necesario acudir al sitio web de la aplicación: https://git-scm.com/downloads luego proceder a instalar.
 
 ## Trabajo básico con GIT
 - git init    // Inicia un repositorio en el directorio actual
