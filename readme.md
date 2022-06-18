@@ -9,7 +9,7 @@ Para instalar GIT es necesario acudir al sitio web de la aplicación: https://gi
 - git init    // Inicia un repositorio en el directorio actual
 - git add   . // Agrega los archivos al index o Staging area.
 - git commit -m "xxxxxx" // Nos permite agregar todos los archivos al head, listos para subir a github. Reemplaza las xxxx por un comentario sobre ese commit. Por ejemplo: "se corrigió el registro de usuarios".
-- git remote add origin xxx //  Remplaza las xxx por la URL de tu repositorio en GitHub
+- git remote add origin xxx //  Remplaza las xxx por la URL de tu repositorio en GitHub, solo se realiza una vez en cada proyecto, para vincular el repo local con el repo remoto.
 - git push origin master // Sube todos los archivos de la rama master
 
 ## Crear un repositorio en GitHub
